@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://www.axios.com/2026/05/08/ai-safety-pivot-trump-administration-china",
-    "headline_hash": "4ee1f8dc925b0742",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.axios.com/2026/05/08/ai-safety-pivot-trump-administration-china?utm_source=openai",
-    "headline_hash": "09899ecb50057e99",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://news.bloomberglaw.com/us-law-week/meta-backed-scale-ai-wins-500-million-defense-department-deal",
-    "headline_hash": "17859a33843366d5",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://news.bloomberglaw.com/us-law-week/meta-backed-scale-ai-wins-500-million-defense-department-deal?utm_source=openai",
-    "headline_hash": "83d6a4eebeff4ce0",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://communicateonline.me/news/digital-video-ad-spend-seen-rising-11-to-82-billion-iab/",
-    "headline_hash": "1a1a48d3102c594d",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://communicateonline.me/news/digital-video-ad-spend-seen-rising-11-to-82-billion-iab/?utm_source=openai",
-    "headline_hash": "321917b9614f74a2",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://digiday.com/marketing/possible-expands-to-lisbon-in-2027-keeping-its-focus-on-marketing-tech-culture-and-creativity/",
-    "headline_hash": "e8cdcb19f5398391",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://digiday.com/marketing/possible-expands-to-lisbon-in-2027-keeping-its-focus-on-marketing-tech-culture-and-creativity/",
-    "headline_hash": "e8cdcb19f5398391",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.streetinsider.com/Reuters?before_id=26450062",
-    "headline_hash": "a04dc94d8694fe31",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.streetinsider.com/Reuters?before_id=26450062&utm_source=openai",
-    "headline_hash": "53e5430b53a07a89",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.bloomberg.com/news/articles/2026-05-07/trump-s-summit-with-xi-is-on-despite-china-s-iran-concerns",
-    "headline_hash": "3cb2531f463ce942",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.bloomberg.com/news/articles/2026-05-07/trump-s-summit-with-xi-is-on-despite-china-s-iran-concerns?srnd=homepage-americas&utm_source=openai",
-    "headline_hash": "313cb67d0752f328",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://lightreel.ai/blogs/whats-trending-on-instagram",
-    "headline_hash": "09bfecf019313821",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://lightreel.ai/blogs/whats-trending-on-instagram?utm_source=openai",
-    "headline_hash": "9776e3ebe983ed8d",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.bfi.org.uk/news/great-8-showcase-cannes-2026",
-    "headline_hash": "f86330b174e223a8",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.bfi.org.uk/news/great-8-showcase-cannes-2026?utm_source=openai",
-    "headline_hash": "56cb0f355387ca65",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.eurekalert.org/news-releases/1127173",
-    "headline_hash": "f685f577976b3b5b",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.eurekalert.org/news-releases/1127173?utm_source=openai",
-    "headline_hash": "2769a8ee0aed3021",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
-    "headline_hash": "d9ef1e04460b04b2",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/?utm_source=openai",
-    "headline_hash": "e8b09a760c8e043b",
-    "date": "2026-05-08"
-  },
-  {
     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/pdf/",
     "headline_hash": "689cd09fc2f2c3f4",
     "date": "2026-05-09"
@@ -668,5 +568,105 @@
     "url": "https://www.wsbradio.com/news/local/nationwide-recall-issued-eczema-cream-over-possible-staph-contamination/RUA2AGA5VNFUPGYJGI47DXBYOQ/?utm_source=openai",
     "headline_hash": "3640740a4b2a4c5b",
     "date": "2026-05-15"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/amp/",
+    "headline_hash": "fefe65da168bb16e",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/amp/?utm_source=openai",
+    "headline_hash": "175ae30ba4083f79",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.adexchanger.com/tv/we-went-to-eight-upfronts-this-week-heres-what-we-learned/",
+    "headline_hash": "aa5b2686676af6c2",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.adexchanger.com/tv/we-went-to-eight-upfronts-this-week-heres-what-we-learned/?utm_source=openai",
+    "headline_hash": "24dcb4124b8f5c75",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.aol.com/articles/2026-tv-upfronts-recap-hi-100000843.html",
+    "headline_hash": "1bf9d3de658ba18c",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.aol.com/articles/2026-tv-upfronts-recap-hi-100000843.html?utm_source=openai",
+    "headline_hash": "8427847d65a19309",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.taiwannews.com.tw/en/news/6363901",
+    "headline_hash": "bdf079dc3c8fbefc",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.taiwannews.com.tw/en/news/6363901?utm_source=openai",
+    "headline_hash": "d325db31576de0d7",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/china-signals-tariff-cuts-advances-in-farm-market-access-after-trumpxi-summit-4694471",
+    "headline_hash": "042a805fba1c564b",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/china-signals-tariff-cuts-advances-in-farm-market-access-after-trumpxi-summit-4694471?utm_source=openai",
+    "headline_hash": "674a5e85609f4252",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://apnews.com/article/b96cc6d4e4c14139bb0d11482e6f751a",
+    "headline_hash": "fceb34892ea68238",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://apnews.com/article/b96cc6d4e4c14139bb0d11482e6f751a?utm_source=openai",
+    "headline_hash": "ea163eddc0a7575d",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/05/16/cannes-2026-why-american-cinema-is-not-taking-center-stage-on-the-croisette-this-year_6753506_117.html",
+    "headline_hash": "b688c94eff65c1de",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/05/16/cannes-2026-why-american-cinema-is-not-taking-center-stage-on-the-croisette-this-year_6753506_117.html?utm_source=openai",
+    "headline_hash": "c2d290b5af1fb92c",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://elpais.com/cultura/cine/2026-05-16/sorogoyen-bardem-y-luengo-presentan-en-cannes-el-ser-querido-a-muchos-hombres-todavia-les-cuesta-escuchar.html",
+    "headline_hash": "ade97c962433bc98",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://elpais.com/cultura/cine/2026-05-16/sorogoyen-bardem-y-luengo-presentan-en-cannes-el-ser-querido-a-muchos-hombres-todavia-les-cuesta-escuchar.html?utm_source=openai",
+    "headline_hash": "9d156ffcbb24e7e1",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.psypost.org/",
+    "headline_hash": "efb89ca25388a73a",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.psypost.org/",
+    "headline_hash": "efb89ca25388a73a",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+    "headline_hash": "511f3478d6919df3",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?utm_source=openai",
+    "headline_hash": "319acb5a94ca6d03",
+    "date": "2026-05-16"
   }
 ]
