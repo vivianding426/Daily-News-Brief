@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/pdf/",
-    "headline_hash": "689cd09fc2f2c3f4",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/pdf/?utm_source=openai",
-    "headline_hash": "f7d8b371dd111179",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-    "headline_hash": "1c3059fb78868aa9",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/?utm_source=openai",
-    "headline_hash": "5d2abe5451e0980e",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.emarketer.com/content/coach-marketing-spend-growth-gen-z-strategy/",
-    "headline_hash": "6f5830cbe66b9b3f",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.emarketer.com/content/coach-marketing-spend-growth-gen-z-strategy/?utm_source=openai",
-    "headline_hash": "aebc15adea6b089e",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.marketscreener.com/news/us-oil-prices-jump-on-us-iran-hostilities-ce7f5bdadd8ef720",
-    "headline_hash": "90dfbb7c5ec2f62f",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.marketscreener.com/news/us-oil-prices-jump-on-us-iran-hostilities-ce7f5bdadd8ef720?utm_source=openai",
-    "headline_hash": "892b253c245bd5fc",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://apnews.com/article/4e17ad3271e7391a27a247698cddd6f8",
-    "headline_hash": "2560427cc7ff3a63",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://apnews.com/article/4e17ad3271e7391a27a247698cddd6f8?utm_source=openai",
-    "headline_hash": "68a9bdb0b5afbe03",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.androidcentral.com/apps-software/meta/stop-using-instagram-for-private-messages-after-todays-change",
-    "headline_hash": "0dec94820c6094b9",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.androidcentral.com/apps-software/meta/stop-using-instagram-for-private-messages-after-todays-change?utm_source=openai",
-    "headline_hash": "54c24b334bd5323c",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/05/09/cannes-film-festival-2026-spanish-filmmaker-pedro-almodovar-still-burns-with-desire-for-cinema_6753291_117.html",
-    "headline_hash": "4caf1c6469fb0f61",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/05/09/cannes-film-festival-2026-spanish-filmmaker-pedro-almodovar-still-burns-with-desire-for-cinema_6753291_117.html?utm_source=openai",
-    "headline_hash": "4cb4a6ef613d6eb9",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.festival-cannes.com/en/press/press-releases/cinema-de-la-plage-films-on-the-beach-2026/",
-    "headline_hash": "646d682c51a34d5f",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.festival-cannes.com/en/press/press-releases/cinema-de-la-plage-films-on-the-beach-2026/?utm_source=openai",
-    "headline_hash": "fe6a3d677429cade",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.psypost.org/untreated-sleep-apnea-linked-to-physical-brain-changes-in-alzheimers-disease/",
-    "headline_hash": "353d117449725c87",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.psypost.org/untreated-sleep-apnea-linked-to-physical-brain-changes-in-alzheimers-disease/",
-    "headline_hash": "353d117449725c87",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.androidcentral.com/wearables/fitbit/fitbit-features-missing-in-the-google-health-app",
-    "headline_hash": "e458b6303b9caae4",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.androidcentral.com/wearables/fitbit/fitbit-features-missing-in-the-google-health-app?utm_source=openai",
-    "headline_hash": "8c95c7f3498101fe",
-    "date": "2026-05-09"
-  },
-  {
     "url": "https://www.tomshardware.com/pc-components/gpus/testing-nvidias-rtx-mega-geometry-tech-vram-reducing-tech-a-leap-forward-for-path-traced-rendering",
     "headline_hash": "55911c5aa7205a73",
     "date": "2026-05-10"
@@ -668,5 +568,55 @@
     "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?utm_source=openai",
     "headline_hash": "319acb5a94ca6d03",
     "date": "2026-05-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "headline_hash": "6ec3df8be66ef779",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://ppc.land/directv-turned-upfront-week-into-a-live-ad-for-itself-starting-on-the-plane/",
+    "headline_hash": "33d7400ea0f17108",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-16/2026-tv-upfronts-recap-hi-tech-ad-buying-creator-fever-baywatch",
+    "headline_hash": "bdd6c3a235f52bfd",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://au.investing.com/news/stock-market-news/arm-holdings-to-face-us-antitrust-probe-over-chip-tech-bloomberg-news-reports-4440456",
+    "headline_hash": "da5d46cdc6c31c0e",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://ca.marketscreener.com/news/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldn-t-have-started-ce7f5bd3dc8af426",
+    "headline_hash": "54753b46ab04e95a",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://ppc.land/youtubes-ai-face-shield-now-covers-every-creator-18-and-over/",
+    "headline_hash": "4f050527072f790b",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://apnews.com/article/a776dc8a7c118bac81b8f56da46f39e5",
+    "headline_hash": "aa92875da152134d",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://elpais.com/expres/2026-05-17/el-cine-espanol-conquista-cannes-con-tres-peliculas-en-competicion-por-primera-vez-en-la-historia.html",
+    "headline_hash": "df6be7c8fde77cee",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
+    "headline_hash": "950853fb66267620",
+    "date": "2026-05-17"
+  },
+  {
+    "url": "https://www.cbsnews.com/amp/news/straus-family-creamery-ice-cream-recall-metal-fda/",
+    "headline_hash": "04d9343118d790f2",
+    "date": "2026-05-17"
   }
 ]
