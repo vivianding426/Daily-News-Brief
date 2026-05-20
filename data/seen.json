@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://www.csoonline.com/article/4170029/openai-introduces-daybreak-cyber-platform-takes-on-anthropic-mythos.html",
-    "headline_hash": "6977b388d0f0705e",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://www.adexchanger.com/tv/nbcuniversal-peacocked-its-ad-performance-prowess-on-its-upfront-stage/",
-    "headline_hash": "43e3ee67058d42ba",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://www.prnewswire.com/news-releases/asics-launches-beauty-campaign-featuring-post-exercise-faces-to-show-the-glow-that-comes-from-within-302768397.html",
-    "headline_hash": "854af39eea8961e2",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://www.itpro.com/business/policy-and-legislation/this-closes-a-gap-that-has-caused-real-uncertainty-in-the-market-changes-to-eu-ai-act-implementation-deadlines-welcomed-by-industry",
-    "headline_hash": "568ca1d14c86b66e",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://www.straitstimes.com/world/united-states/us-issues-new-sanctions-over-irans-oil-shipments-to-china",
-    "headline_hash": "280fea4b0e3a477f",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://www.prnewswire.com/news-releases/photography-isnt-dying-its-never-mattered-more-declares-vsco-in-national-campaign-302769385.html",
-    "headline_hash": "ca566023552c90e2",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://apnews.com/article/65ab7507c8f80cb134e1ebbff7acf910",
-    "headline_hash": "c3961b9b91624f9f",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://www.nature.com/articles/s41380-026-03633-0",
-    "headline_hash": "778db8acbc4d5e17",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://finance.yahoo.com/sectors/healthcare/articles/hint-reframes-hydration-desire-not-130000055.html",
-    "headline_hash": "293fd0c760467c13",
-    "date": "2026-05-12"
-  },
-  {
-    "url": "https://www.axios.com/local/columbus/2026/05/12/intel-ohio-stock-project-2026",
-    "headline_hash": "70e5c3edbffeee8c",
-    "date": "2026-05-12"
-  },
-  {
     "url": "https://indianexpress.com/article/technology/tech-news-technology/google-android-show-2026-from-gemini-intelligence-to-googlebook-a-look-at-key-announcements-10686314/",
     "headline_hash": "4d68ad69d86fc105",
     "date": "2026-05-13"
@@ -668,5 +618,105 @@
     "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
     "headline_hash": "511f3478d6919df3",
     "date": "2026-05-19"
+  },
+  {
+    "url": "https://apnews.com/article/a984e6756032dc4af260f8fa27e8f4a9",
+    "headline_hash": "f95715a2381fde45",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://apnews.com/article/a984e6756032dc4af260f8fa27e8f4a9?utm_source=openai",
+    "headline_hash": "7422a101b73e6be2",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+    "headline_hash": "9cf05aa1a42fce08",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/?utm_source=openai",
+    "headline_hash": "c1a3ee353abce8c8",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.thewrap.com/industry-news/tech/",
+    "headline_hash": "55040992f403d3c8",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.thewrap.com/industry-news/tech/",
+    "headline_hash": "55040992f403d3c8",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.campaignlive.com/article/finchs-first-brand-campaign-embraces-weird-truth-self-care/1958589",
+    "headline_hash": "cb02855643b7baaa",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.campaignlive.com/article/finchs-first-brand-campaign-embraces-weird-truth-self-care/1958589?utm_source=openai",
+    "headline_hash": "236210d278339d54",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://apnews.com/article/981e7cba3729539f46c26af8bb1dee9a",
+    "headline_hash": "456fa9f465cfce30",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://apnews.com/article/981e7cba3729539f46c26af8bb1dee9a?utm_source=openai",
+    "headline_hash": "8807d94af909c7c3",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://m.investing.com/news/economy-news/china-leaves-lending-benchmarks-unchanged-for-12th-month-in-may-4700098",
+    "headline_hash": "ae0df4a2de525813",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://m.investing.com/news/economy-news/china-leaves-lending-benchmarks-unchanged-for-12th-month-in-may-4700098?ampMode=1&utm_source=openai",
+    "headline_hash": "87567bf641fc6926",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.thewrap.com/industry-news/tech/",
+    "headline_hash": "55040992f403d3c8",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.thewrap.com/industry-news/tech/",
+    "headline_hash": "55040992f403d3c8",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.jckonline.com/editorial-article/jewelry-cannes-film-festival/",
+    "headline_hash": "244a87db59b74f1a",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.jckonline.com/editorial-article/jewelry-cannes-film-festival/?utm_source=openai",
+    "headline_hash": "2d7692a4f865c59f",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.washingtonpost.com/health/2026/05/19/surprising-drug-combo-could-reshape-suicide-treatment/",
+    "headline_hash": "cc868b1cfdfc7968",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.washingtonpost.com/health/2026/05/19/surprising-drug-combo-could-reshape-suicide-treatment/?utm_source=openai",
+    "headline_hash": "3024e4ac39ec5d4c",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nassar-investments-recalls-malazi-tahina-due-salmonella-contamination",
+    "headline_hash": "11645e370b8879f8",
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nassar-investments-recalls-malazi-tahina-due-salmonella-contamination?utm_source=openai",
+    "headline_hash": "ef3ab7ce1a06f895",
+    "date": "2026-05-20"
   }
 ]
