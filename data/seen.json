@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-    "headline_hash": "31888c756b633d70",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-inside-warner-bros-discoverys-programmatic-upfront-pitch/",
-    "headline_hash": "062fe7804b1dfe18",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://ppc.land/78-of-advertisers-plan-to-factor-addressable-tv-into-2026-upfront-deals/",
-    "headline_hash": "f33bf78c9a5f567b",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://ca.finance.yahoo.com/news/tsmc-says-global-chip-market-020630963.html",
-    "headline_hash": "a5e3df41a6e2dc1a",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://www.cbsnews.com/amp/news/trump-xi-jinping-meeting-china-beijing-trade-tariffs-taiwan-iran/",
-    "headline_hash": "860241a0cca25d84",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://ppc.land/tiktok-one-launches-creator-ai-search-and-revamps-its-partner-tools-in-2026/",
-    "headline_hash": "678bbc1b1502a327",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/culture/article/2026/05/14/cannes-2026-meeting-peter-jackson-the-genius-tinkerer-turned-blockbuster-master_6753461_30.html",
-    "headline_hash": "bebc47bdff09d851",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://apnews.com/article/590f9e18e6e15fc6fbc9d64a8dfb45e2",
-    "headline_hash": "074a6505a7893c6c",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://www.eurekalert.org/news-releases/1128167",
-    "headline_hash": "95e115e4b058d54a",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-    "headline_hash": "511f3478d6919df3",
-    "date": "2026-05-14"
-  },
-  {
     "url": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/",
     "headline_hash": "a02734c9784c59d1",
     "date": "2026-05-15"
@@ -718,5 +668,115 @@
     "url": "https://mfn.se/ob/a/navamedic/nava-navamedic-launches-virono-r-the-first-single-dose-over-the-counter-cold-sore-tablet-b1feb6a6.iframe?utm_source=openai",
     "headline_hash": "562803348b3f9d88",
     "date": "2026-05-21"
+  },
+  {
+    "url": "https://www.itpro.com/technology/artificial-intelligence/trump-wants-ai-models-90-days-before-they-go-public",
+    "headline_hash": "c3dca2a72295cbf3",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.itpro.com/technology/artificial-intelligence/trump-wants-ai-models-90-days-before-they-go-public?utm_source=openai",
+    "headline_hash": "fbdd74b53fe7e92c",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.cmswire.com/digital-marketing/google-marketing-live-how-google-is-building-an-ai-native-marketing-ecosystem/",
+    "headline_hash": "eaa63477dc095fac",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.cmswire.com/digital-marketing/google-marketing-live-how-google-is-building-an-ai-native-marketing-ecosystem/?utm_source=openai",
+    "headline_hash": "c5c64f784156298e",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.campaignlive.com/article/essentia-water-goes-national-beat-formula-lafcs-son-heung-min/1959160",
+    "headline_hash": "d0025031d813cec2",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.campaignlive.com/article/essentia-water-goes-national-beat-formula-lafcs-son-heung-min/1959160?utm_source=openai",
+    "headline_hash": "ed0471cdb1b07915",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.investing.com/news/economy-news/ustr-greer-sees-no-immediate-chip-tariffs-but-says-protection-important-for-sector-4707278",
+    "headline_hash": "b9343924045b192c",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.investing.com/news/economy-news/ustr-greer-sees-no-immediate-chip-tariffs-but-says-protection-important-for-sector-4707278?utm_source=openai",
+    "headline_hash": "1b91b9268b848a11",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://apnews.com/article/d87285399582840f585bc4e24dd4f10f",
+    "headline_hash": "0a11b9a10eba2d69",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://apnews.com/article/d87285399582840f585bc4e24dd4f10f?utm_source=openai",
+    "headline_hash": "4fdb71cc1ba99c10",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.scmp.com/economy/china-economy/article/3354400/china-moves-secure-critical-mineral-supply-chain-sweeping-new-framework",
+    "headline_hash": "0fad311442130f5e",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.scmp.com/economy/china-economy/article/3354400/china-moves-secure-critical-mineral-supply-chain-sweeping-new-framework?module=top_story&pgtype=homepage&utm_source=openai",
+    "headline_hash": "044f3680b4be983f",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://apnews.com/article/aa8bfd3287ece130e6dff2b79ded9a6f",
+    "headline_hash": "3b77a23cebfb08b1",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://apnews.com/article/aa8bfd3287ece130e6dff2b79ded9a6f?utm_source=openai",
+    "headline_hash": "757e071959b32470",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://cineuropa.org/en/newsdetail/491706/",
+    "headline_hash": "e1b59dcf6ff72a64",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://cineuropa.org/en/newsdetail/491706/?utm_source=openai",
+    "headline_hash": "e933aebc28f49e27",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://medicalxpress.com/news/2026-05-machine-personalizes-depression-treatment-wearable.html",
+    "headline_hash": "9aa1ae90c45f6759",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://medicalxpress.com/news/2026-05-machine-personalizes-depression-treatment-wearable.html?utm_source=openai",
+    "headline_hash": "2e9c53ae750de639",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://beautymatter.com/articles/2026-week-21-beauty-brand-and-product-launches",
+    "headline_hash": "14f459a85cb78922",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://beautymatter.com/articles/2026-week-21-beauty-brand-and-product-launches?utm_source=openai",
+    "headline_hash": "4bf7608be17d8be1",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://apnews.com/article/6fdfb05681c628ea94d391d59e1ca0a4",
+    "headline_hash": "2992ffd785ed4cf8",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://apnews.com/article/6fdfb05681c628ea94d391d59e1ca0a4?utm_source=openai",
+    "headline_hash": "68027f0f66f20339",
+    "date": "2026-05-22"
   }
 ]
