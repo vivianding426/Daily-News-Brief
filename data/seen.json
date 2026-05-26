@@ -1,355 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/",
-    "headline_hash": "a02734c9784c59d1",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019?utm_source=openai",
-    "headline_hash": "a82939d001a6278d",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://en.people.cn/n3/2026/0514/c90000-20456503.html",
-    "headline_hash": "a20af11d7f4fe9c1",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://en.people.cn/n3/2026/0514/c90000-20456503.html?utm_source=openai",
-    "headline_hash": "1cebd56c6d155bd7",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://digiday.com/marketing/tiktok-launches-mcp-server-to-let-ai-agents-run-campaigns/",
-    "headline_hash": "de7548626787a17e",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://digiday.com/marketing/tiktok-launches-mcp-server-to-let-ai-agents-run-campaigns/?utm_source=openai",
-    "headline_hash": "24838ef34d2b8145",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.thewrap.com/media-platforms/tv/upfronts-2026-analysis/",
-    "headline_hash": "4a52c0ba188ffeb1",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.thewrap.com/media-platforms/tv/upfronts-2026-analysis/?utm_source=openai",
-    "headline_hash": "3cdca95d3796407a",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/may/ai-regulatory-update-for-energy-new-timelines-in-the-eu-new-standards-in-the-us",
-    "headline_hash": "3c9a3acd38929b6a",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/may/ai-regulatory-update-for-energy-new-timelines-in-the-eu-new-standards-in-the-us?utm_source=openai",
-    "headline_hash": "cfb3dfa4610a4460",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://apnews.com/article/7a10166d870327085b0ca4a06080c824",
-    "headline_hash": "bc968d12ab6fda25",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://apnews.com/article/7a10166d870327085b0ca4a06080c824?utm_source=openai",
-    "headline_hash": "111c09fe124782fe",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.gamebusiness.jp/article/2026/05/15/26938.html",
-    "headline_hash": "536f09994e9bee65",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.gamebusiness.jp/article/2026/05/15/26938.html?utm_source=openai",
-    "headline_hash": "f0b2e025be7d2559",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/culture/article/2026/05/15/cannes-2026-park-chan-wook-jury-president-says-he-is-ready-for-fierce-debates_6753490_30.html",
-    "headline_hash": "9e32b7163c3082ea",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/culture/article/2026/05/15/cannes-2026-park-chan-wook-jury-president-says-he-is-ready-for-fierce-debates_6753490_30.html?utm_source=openai",
-    "headline_hash": "0d91725054715022",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.eurekalert.org/news-releases/1128154",
-    "headline_hash": "ce0fd9fdf56dee71",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.eurekalert.org/news-releases/1128154?utm_source=openai",
-    "headline_hash": "eac7baf543afe4f7",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.wsbradio.com/news/local/nationwide-recall-issued-eczema-cream-over-possible-staph-contamination/RUA2AGA5VNFUPGYJGI47DXBYOQ/",
-    "headline_hash": "d538ca4a9453c6c3",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.wsbradio.com/news/local/nationwide-recall-issued-eczema-cream-over-possible-staph-contamination/RUA2AGA5VNFUPGYJGI47DXBYOQ/?utm_source=openai",
-    "headline_hash": "3640740a4b2a4c5b",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/amp/",
-    "headline_hash": "fefe65da168bb16e",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/amp/?utm_source=openai",
-    "headline_hash": "175ae30ba4083f79",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.adexchanger.com/tv/we-went-to-eight-upfronts-this-week-heres-what-we-learned/",
-    "headline_hash": "aa5b2686676af6c2",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.adexchanger.com/tv/we-went-to-eight-upfronts-this-week-heres-what-we-learned/?utm_source=openai",
-    "headline_hash": "24dcb4124b8f5c75",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.aol.com/articles/2026-tv-upfronts-recap-hi-100000843.html",
-    "headline_hash": "1bf9d3de658ba18c",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.aol.com/articles/2026-tv-upfronts-recap-hi-100000843.html?utm_source=openai",
-    "headline_hash": "8427847d65a19309",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.taiwannews.com.tw/en/news/6363901",
-    "headline_hash": "bdf079dc3c8fbefc",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.taiwannews.com.tw/en/news/6363901?utm_source=openai",
-    "headline_hash": "d325db31576de0d7",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.investing.com/news/stock-market-news/china-signals-tariff-cuts-advances-in-farm-market-access-after-trumpxi-summit-4694471",
-    "headline_hash": "042a805fba1c564b",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.investing.com/news/stock-market-news/china-signals-tariff-cuts-advances-in-farm-market-access-after-trumpxi-summit-4694471?utm_source=openai",
-    "headline_hash": "674a5e85609f4252",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://apnews.com/article/b96cc6d4e4c14139bb0d11482e6f751a",
-    "headline_hash": "fceb34892ea68238",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://apnews.com/article/b96cc6d4e4c14139bb0d11482e6f751a?utm_source=openai",
-    "headline_hash": "ea163eddc0a7575d",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/05/16/cannes-2026-why-american-cinema-is-not-taking-center-stage-on-the-croisette-this-year_6753506_117.html",
-    "headline_hash": "b688c94eff65c1de",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/05/16/cannes-2026-why-american-cinema-is-not-taking-center-stage-on-the-croisette-this-year_6753506_117.html?utm_source=openai",
-    "headline_hash": "c2d290b5af1fb92c",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://elpais.com/cultura/cine/2026-05-16/sorogoyen-bardem-y-luengo-presentan-en-cannes-el-ser-querido-a-muchos-hombres-todavia-les-cuesta-escuchar.html",
-    "headline_hash": "ade97c962433bc98",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://elpais.com/cultura/cine/2026-05-16/sorogoyen-bardem-y-luengo-presentan-en-cannes-el-ser-querido-a-muchos-hombres-todavia-les-cuesta-escuchar.html?utm_source=openai",
-    "headline_hash": "9d156ffcbb24e7e1",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.psypost.org/",
-    "headline_hash": "efb89ca25388a73a",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.psypost.org/",
-    "headline_hash": "efb89ca25388a73a",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-    "headline_hash": "511f3478d6919df3",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?utm_source=openai",
-    "headline_hash": "319acb5a94ca6d03",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-    "headline_hash": "6ec3df8be66ef779",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://ppc.land/directv-turned-upfront-week-into-a-live-ad-for-itself-starting-on-the-plane/",
-    "headline_hash": "33d7400ea0f17108",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-16/2026-tv-upfronts-recap-hi-tech-ad-buying-creator-fever-baywatch",
-    "headline_hash": "bdd6c3a235f52bfd",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://au.investing.com/news/stock-market-news/arm-holdings-to-face-us-antitrust-probe-over-chip-tech-bloomberg-news-reports-4440456",
-    "headline_hash": "da5d46cdc6c31c0e",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://ca.marketscreener.com/news/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldn-t-have-started-ce7f5bd3dc8af426",
-    "headline_hash": "54753b46ab04e95a",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://ppc.land/youtubes-ai-face-shield-now-covers-every-creator-18-and-over/",
-    "headline_hash": "4f050527072f790b",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://apnews.com/article/a776dc8a7c118bac81b8f56da46f39e5",
-    "headline_hash": "aa92875da152134d",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://elpais.com/expres/2026-05-17/el-cine-espanol-conquista-cannes-con-tres-peliculas-en-competicion-por-primera-vez-en-la-historia.html",
-    "headline_hash": "df6be7c8fde77cee",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
-    "headline_hash": "950853fb66267620",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.cbsnews.com/amp/news/straus-family-creamery-ice-cream-recall-metal-fda/",
-    "headline_hash": "04d9343118d790f2",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html",
-    "headline_hash": "c234a82f274bc919",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.techspot.com/news/112442-arxiv-moves-combat-ai-slop-submissions-one-year.html?utm_source=openai",
-    "headline_hash": "97a8765f8eec1443",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://apnews.com/article/9cf3e07fd691f6af510c4a6f9c8ba353",
-    "headline_hash": "5c30dbeff67acd91",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://apnews.com/article/9cf3e07fd691f6af510c4a6f9c8ba353?utm_source=openai",
-    "headline_hash": "cb51ddf62ea49d5d",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.prnewswire.com/news-releases/cadent-becomes-one-of-the-first-audience-activation-platforms-available-in-gemini-enterprise-302774335.html",
-    "headline_hash": "a9a6e9a829628e63",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.prnewswire.com/news-releases/cadent-becomes-one-of-the-first-audience-activation-platforms-available-in-gemini-enterprise-302774335.html?utm_source=openai",
-    "headline_hash": "80de07035f3286e0",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.mediapost.com/publications/article/415141/dua-lipa-sues-samsung-for-15m-for-copyright-infri.html",
-    "headline_hash": "4d6c1fd4c9715c91",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.mediapost.com/publications/article/415141/dua-lipa-sues-samsung-for-15m-for-copyright-infri.html?edition=",
-    "headline_hash": "76a4a04fdb8b66af",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.marketscreener.com/news/canal-threatens-to-blacklist-french-film-industry-figures-after-bollore-criticism-ce7f5adad188f52c",
-    "headline_hash": "fd65595406ba6759",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.marketscreener.com/news/canal-threatens-to-blacklist-french-film-industry-figures-after-bollore-criticism-ce7f5adad188f52c?utm_source=openai",
-    "headline_hash": "020472e4640d5db0",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://apnews.com/article/832bafb5ca0be21e4a1d149c5db56b58",
-    "headline_hash": "a95fd7df3cacddf0",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://apnews.com/article/832bafb5ca0be21e4a1d149c5db56b58?utm_source=openai",
-    "headline_hash": "b51bf65ca3ca1829",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/economy/article/2026/05/18/french-film-industry-in-uproar-after-canal-says-it-will-blacklist-professionals-over-anti-bollore-petition_6753559_19.html",
-    "headline_hash": "fe7f0b8d5089c590",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.lemonde.fr/en/economy/article/2026/05/18/french-film-industry-in-uproar-after-canal-says-it-will-blacklist-professionals-over-anti-bollore-petition_6753559_19.html?utm_source=openai",
-    "headline_hash": "4476a3a105ee0888",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.vanityfair.com/hollywood/photos/all-the-fashion-from-the-cannes-film-festival-2026",
-    "headline_hash": "79d4342e7d9be8c5",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.vanityfair.com/hollywood/photos/all-the-fashion-from-the-cannes-film-festival-2026?utm_source=openai",
-    "headline_hash": "71eddfecbe51b801",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.taiwannews.com.tw/en/news/6364754",
-    "headline_hash": "e61cd716aa449d9c",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.taiwannews.com.tw/en/news/6364754?utm_source=openai",
-    "headline_hash": "5f6dc01ab597fb55",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/best-supplements-best-prices-issues-voluntary-nationwide-recall-wap-sensual-enhancement-capsules-due",
-    "headline_hash": "ad767249f27cb238",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/best-supplements-best-prices-issues-voluntary-nationwide-recall-wap-sensual-enhancement-capsules-due?utm_source=openai",
-    "headline_hash": "5b5a8de9ffdaa252",
-    "date": "2026-05-18"
-  },
-  {
     "url": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
     "headline_hash": "8e84e4c82c72a4f2",
     "date": "2026-05-19"
@@ -778,5 +428,105 @@
     "url": "https://apnews.com/article/6fdfb05681c628ea94d391d59e1ca0a4?utm_source=openai",
     "headline_hash": "68027f0f66f20339",
     "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.thewrap.com/industry-news/tech/",
+    "headline_hash": "55040992f403d3c8",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.thewrap.com/industry-news/tech/",
+    "headline_hash": "55040992f403d3c8",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.euronews.com/next/2026/05/25/why-european-businesses-are-not-using-ai-tools",
+    "headline_hash": "98321bff478843a0",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.euronews.com/next/2026/05/25/why-european-businesses-are-not-using-ai-tools?utm_source=openai",
+    "headline_hash": "43669ce34eaa50fa",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://pr.oregoncapitalinsider.com/article/KERRYGOLD-LAUNCHES-MAKE-IT-GOLD-WITH-KERRYGOLD-A-CAMPAIGN-BUILT-ON-FLAVOR-CRAFT-andamp-IRISH-HERITAGE",
+    "headline_hash": "8018132b034ff913",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://pr.oregoncapitalinsider.com/article/KERRYGOLD-LAUNCHES-MAKE-IT-GOLD-WITH-KERRYGOLD-A-CAMPAIGN-BUILT-ON-FLAVOR-CRAFT-andamp-IRISH-HERITAGE?storyId=6a157e0a004597ee6ba127ac&utm_source=openai",
+    "headline_hash": "78c5bc70796c6a93",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/manufacturing/semiconductors",
+    "headline_hash": "67082c08a0819555",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/manufacturing/semiconductors?utm_source=openai",
+    "headline_hash": "4d4898b9a6dd8f71",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://apnews.com/article/4f681cecfa63fe251f5bb12bb4b949c6",
+    "headline_hash": "ec6cf955934f2db9",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://apnews.com/article/4f681cecfa63fe251f5bb12bb4b949c6?utm_source=openai",
+    "headline_hash": "654b040133f8f76c",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://digiday.com/topic/creator-economy/",
+    "headline_hash": "e67d4cc7081b34b0",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://digiday.com/topic/creator-economy/",
+    "headline_hash": "e67d4cc7081b34b0",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://au.variety.com/2026/film/global/box-office-michael-800-million-devil-wears-prada-2-600-million-globally-36923/",
+    "headline_hash": "99a5626ef92d7a0e",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://au.variety.com/2026/film/global/box-office-michael-800-million-devil-wears-prada-2-600-million-globally-36923/?utm_source=openai",
+    "headline_hash": "c17224bc4016fa80",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.sciencealert.com/a-single-dose-of-psilocybin-could-ease-depression-for-months-new-study-finds",
+    "headline_hash": "db2ef55bdbc1610c",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.sciencealert.com/a-single-dose-of-psilocybin-could-ease-depression-for-months-new-study-finds?utm_source=openai",
+    "headline_hash": "11f922c008441079",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.taiwannews.com.tw/en/news/6370073",
+    "headline_hash": "eb65f2bda1071d34",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.taiwannews.com.tw/en/news/6370073?utm_source=openai",
+    "headline_hash": "551cc78e3d7f2b4e",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-narrowly-avoids-18-day-chip-strike-after-last-minute-wage-deal-with-48-000-worker-union-tentative-deal-subject-to-workers-vote-suspends-billions-of-dollars-worth-of-potential-losses",
+    "headline_hash": "be1dacd689fce893",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-narrowly-avoids-18-day-chip-strike-after-last-minute-wage-deal-with-48-000-worker-union-tentative-deal-subject-to-workers-vote-suspends-billions-of-dollars-worth-of-potential-losses?utm_source=openai",
+    "headline_hash": "f91aff3a5bc28805",
+    "date": "2026-05-26"
   }
 ]
