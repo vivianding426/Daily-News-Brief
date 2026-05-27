@@ -1,125 +1,5 @@
 [
   {
-    "url": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
-    "headline_hash": "8e84e4c82c72a4f2",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb?utm_source=openai",
-    "headline_hash": "425a42b001d6cad4",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.tomsguide.com/phones/google-pixel-phones/google-i-o-2026-date-time-potential-announcements-and-everything-else-you-need-to-know",
-    "headline_hash": "8d87157f6f72e371",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.tomsguide.com/phones/google-pixel-phones/google-i-o-2026-date-time-potential-announcements-and-everything-else-you-need-to-know?utm_source=openai",
-    "headline_hash": "767ac3c6b977d62d",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.globenewswire.com/news-release/2026/05/19/3297272/0/en/Akamai-AI-Brand-Presence-Optimizes-Content-and-Raises-Visibility-in-Agentic-Search.html",
-    "headline_hash": "c5b2ef6710cfa5ec",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.globenewswire.com/news-release/2026/05/19/3297272/0/en/Akamai-AI-Brand-Presence-Optimizes-Content-and-Raises-Visibility-in-Agentic-Search.html?utm_source=openai",
-    "headline_hash": "f0dc9215c470718c",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.marketingweek.com/dr-martens-turnaround-profit-growth/",
-    "headline_hash": "96b6210baa61e568",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.marketingweek.com/dr-martens-turnaround-profit-growth/?utm_source=openai",
-    "headline_hash": "2da298c8be0e4782",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.marketingweek.com/santander-ant-and-dec-success/",
-    "headline_hash": "7faed7b7b6e30804",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.marketingweek.com/santander-ant-and-dec-success/?utm_source=openai",
-    "headline_hash": "72fa924fa93762c1",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/manufacturing/semiconductors",
-    "headline_hash": "67082c08a0819555",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/manufacturing/semiconductors",
-    "headline_hash": "67082c08a0819555",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://apnews.com/article/0c0086341e9694122a49fb7054b41d97",
-    "headline_hash": "8c9413cee3efabd8",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://apnews.com/article/0c0086341e9694122a49fb7054b41d97?utm_source=openai",
-    "headline_hash": "d0345e68c50c5faa",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://au.variety.com/2026/film/global/cate-blanchett-cannes-metoo-killed-quickly-36694/",
-    "headline_hash": "bc09c5be04ec767d",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://au.variety.com/2026/film/global/cate-blanchett-cannes-metoo-killed-quickly-36694/?utm_source=openai",
-    "headline_hash": "cff40e1f2eac3eb1",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://au.variety.com/2026/film/news/jordan-firstman-club-kid-sells-a24-cannes-bidding-war-36729/",
-    "headline_hash": "bf0528367618d4b4",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://au.variety.com/2026/film/news/jordan-firstman-club-kid-sells-a24-cannes-bidding-war-36729/?utm_source=openai",
-    "headline_hash": "2854415b8afe9bed",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.elle.com/fashion/celebrity-style/a71245316/all-the-looks-photos-cannes-film-festival-2026/",
-    "headline_hash": "74bacc3200c76a19",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.elle.com/fashion/celebrity-style/a71245316/all-the-looks-photos-cannes-film-festival-2026/?utm_source=openai",
-    "headline_hash": "0d4590cc315667e4",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849146",
-    "headline_hash": "678b6af8d83c77f7",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849146?utm_source=openai",
-    "headline_hash": "60ea64a4cb5e4df2",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-    "headline_hash": "511f3478d6919df3",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-    "headline_hash": "511f3478d6919df3",
-    "date": "2026-05-19"
-  },
-  {
     "url": "https://apnews.com/article/a984e6756032dc4af260f8fa27e8f4a9",
     "headline_hash": "f95715a2381fde45",
     "date": "2026-05-20"
@@ -528,5 +408,105 @@
     "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-narrowly-avoids-18-day-chip-strike-after-last-minute-wage-deal-with-48-000-worker-union-tentative-deal-subject-to-workers-vote-suspends-billions-of-dollars-worth-of-potential-losses?utm_source=openai",
     "headline_hash": "f91aff3a5bc28805",
     "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections",
+    "headline_hash": "301f51343998f74f",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections?utm_source=openai",
+    "headline_hash": "a9015d9e23d50219",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://thenextweb.com/news/youtube-will-now-automatically-label-ai-generated-videos-whether-creators-disclose-them-or-not",
+    "headline_hash": "ec089814b3aa01eb",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://thenextweb.com/news/youtube-will-now-automatically-label-ai-generated-videos-whether-creators-disclose-them-or-not?utm_source=openai",
+    "headline_hash": "80e22fe78cf56596",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.marketingdive.com/press-release/20260527-new-eclerx-research-78-of-marketing-leaders-say-martech-investment-fails-1/",
+    "headline_hash": "1852891363d8fd0a",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.marketingdive.com/press-release/20260527-new-eclerx-research-78-of-marketing-leaders-say-martech-investment-fails-1/",
+    "headline_hash": "1852891363d8fd0a",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.digitimes.com/news/a20260527PD230/chips-security-it-training-ascend.html",
+    "headline_hash": "c293cb62fd729f43",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.digitimes.com/news/a20260527PD230/chips-security-it-training-ascend.html?utm_source=openai",
+    "headline_hash": "7a745eb99df9e345",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-experts-in-private-firms-now-required-to-secure-approval-before-international-travel-beijing-enforces-policy-to-secure-top-tier-talent-expands-measures-beyond-government",
+    "headline_hash": "1c7a93860740e8df",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-ai-experts-in-private-firms-now-required-to-secure-approval-before-international-travel-beijing-enforces-policy-to-secure-top-tier-talent-expands-measures-beyond-government?utm_source=openai",
+    "headline_hash": "ae476f263a1a2882",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.techradar.com/computing/they-choose-not-to-buy-because-they-want-to-develop-their-own-china-just-refused-to-buy-a-single-nvidia-ai-chip-as-trumps-plan-backfires",
+    "headline_hash": "5aabfe1751789d01",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.techradar.com/computing/they-choose-not-to-buy-because-they-want-to-develop-their-own-china-just-refused-to-buy-a-single-nvidia-ai-chip-as-trumps-plan-backfires?utm_source=openai",
+    "headline_hash": "334154bd71a976f9",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.dexerto.com/twitch/morgpie-banned-on-twitch-after-streaming-dark-souls-on-her-feet-3367961/",
+    "headline_hash": "65d1a6f5ab43af2a",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.dexerto.com/twitch/morgpie-banned-on-twitch-after-streaming-dark-souls-on-her-feet-3367961/?utm_source=openai",
+    "headline_hash": "e2acbf52c02a4b0f",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/michael-kors-parent-capri-forecasts-annual-profit-above-estimates-4711831",
+    "headline_hash": "ec0b0a6cdc5dbf2d",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/michael-kors-parent-capri-forecasts-annual-profit-above-estimates-4711831?utm_source=openai",
+    "headline_hash": "df824b7fc175d8af",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.ndtv.com/health/duration-of-depression-may-impact-severity-of-brain-changes-study-finds-11549893",
+    "headline_hash": "f699333c9b33a277",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.ndtv.com/health/duration-of-depression-may-impact-severity-of-brain-changes-study-finds-11549893?utm_source=openai",
+    "headline_hash": "702229d7eca9e43a",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://news.bloomberglaw.com/product-liability-and-toxics-law/fda-advances-safety-review-of-litigated-food-package-chemicals",
+    "headline_hash": "4f20292fd3a8dd91",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://news.bloomberglaw.com/product-liability-and-toxics-law/fda-advances-safety-review-of-litigated-food-package-chemicals?utm_source=openai",
+    "headline_hash": "02d4377395c7aef2",
+    "date": "2026-05-27"
   }
 ]
