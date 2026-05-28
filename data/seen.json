@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://apnews.com/article/a984e6756032dc4af260f8fa27e8f4a9",
-    "headline_hash": "f95715a2381fde45",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://apnews.com/article/a984e6756032dc4af260f8fa27e8f4a9?utm_source=openai",
-    "headline_hash": "7422a101b73e6be2",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-    "headline_hash": "9cf05aa1a42fce08",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/?utm_source=openai",
-    "headline_hash": "c1a3ee353abce8c8",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.thewrap.com/industry-news/tech/",
-    "headline_hash": "55040992f403d3c8",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.thewrap.com/industry-news/tech/",
-    "headline_hash": "55040992f403d3c8",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.campaignlive.com/article/finchs-first-brand-campaign-embraces-weird-truth-self-care/1958589",
-    "headline_hash": "cb02855643b7baaa",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.campaignlive.com/article/finchs-first-brand-campaign-embraces-weird-truth-self-care/1958589?utm_source=openai",
-    "headline_hash": "236210d278339d54",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://apnews.com/article/981e7cba3729539f46c26af8bb1dee9a",
-    "headline_hash": "456fa9f465cfce30",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://apnews.com/article/981e7cba3729539f46c26af8bb1dee9a?utm_source=openai",
-    "headline_hash": "8807d94af909c7c3",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://m.investing.com/news/economy-news/china-leaves-lending-benchmarks-unchanged-for-12th-month-in-may-4700098",
-    "headline_hash": "ae0df4a2de525813",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://m.investing.com/news/economy-news/china-leaves-lending-benchmarks-unchanged-for-12th-month-in-may-4700098?ampMode=1&utm_source=openai",
-    "headline_hash": "87567bf641fc6926",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.thewrap.com/industry-news/tech/",
-    "headline_hash": "55040992f403d3c8",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.thewrap.com/industry-news/tech/",
-    "headline_hash": "55040992f403d3c8",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.jckonline.com/editorial-article/jewelry-cannes-film-festival/",
-    "headline_hash": "244a87db59b74f1a",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.jckonline.com/editorial-article/jewelry-cannes-film-festival/?utm_source=openai",
-    "headline_hash": "2d7692a4f865c59f",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.washingtonpost.com/health/2026/05/19/surprising-drug-combo-could-reshape-suicide-treatment/",
-    "headline_hash": "cc868b1cfdfc7968",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.washingtonpost.com/health/2026/05/19/surprising-drug-combo-could-reshape-suicide-treatment/?utm_source=openai",
-    "headline_hash": "3024e4ac39ec5d4c",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nassar-investments-recalls-malazi-tahina-due-salmonella-contamination",
-    "headline_hash": "11645e370b8879f8",
-    "date": "2026-05-20"
-  },
-  {
-    "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nassar-investments-recalls-malazi-tahina-due-salmonella-contamination?utm_source=openai",
-    "headline_hash": "ef3ab7ce1a06f895",
-    "date": "2026-05-20"
-  },
-  {
     "url": "https://www.techradar.com/ai-platforms-assistants/googles-new-gemini-omni-ai-can-turn-almost-anything-into-video",
     "headline_hash": "c9f45ee1c5d9eec6",
     "date": "2026-05-21"
@@ -508,5 +408,105 @@
     "url": "https://news.bloomberglaw.com/product-liability-and-toxics-law/fda-advances-safety-review-of-litigated-food-package-chemicals?utm_source=openai",
     "headline_hash": "02d4377395c7aef2",
     "date": "2026-05-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "headline_hash": "1ed3acce98e59846",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/?utm_source=openai",
+    "headline_hash": "9b44e90227c5aa73",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.marketingweek.com/b2b-gen-ai-grow-market-share/",
+    "headline_hash": "6137c4562501a2de",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.marketingweek.com/b2b-gen-ai-grow-market-share/",
+    "headline_hash": "6137c4562501a2de",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.marketingweek.com",
+    "headline_hash": "6e97424fc2421c24",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.marketingweek.com/",
+    "headline_hash": "6a81b2e6384d2c17",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/energy-use-forcing-rethink-of-ai-chip-design-tsmc-says-4715097",
+    "headline_hash": "bf1b6c2085993c7a",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/energy-use-forcing-rethink-of-ai-chip-design-tsmc-says-4715097?utm_source=openai",
+    "headline_hash": "970c7e4d3ce0487d",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://apnews.com/article/4f59d739153d66682b6fbc2b457f5df6",
+    "headline_hash": "78cd9cf2b6612aa4",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://apnews.com/article/4f59d739153d66682b6fbc2b457f5df6?utm_source=openai",
+    "headline_hash": "91ad764dd2082183",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/en/economy/article/2026/05/28/eu-s-sejourne-warns-europe-could-splinter-without-a-commercial-standoff-with-china_6753889_19.html",
+    "headline_hash": "bae3e2e9e665845c",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.lemonde.fr/en/economy/article/2026/05/28/eu-s-sejourne-warns-europe-could-splinter-without-a-commercial-standoff-with-china_6753889_19.html?utm_source=openai",
+    "headline_hash": "4a256ad10b53668d",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.gamesradar.com/summer-game-fest-schedule-2026/",
+    "headline_hash": "e76781ba6a4c6975",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.gamesradar.com/summer-game-fest-schedule-2026/?utm_source=openai",
+    "headline_hash": "26afa882a3cade22",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.wallpaper.com/fashion-beauty/gucci-alpine-formula-one-team",
+    "headline_hash": "81e1800adfb593a2",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.wallpaper.com/fashion-beauty/gucci-alpine-formula-one-team?utm_source=openai",
+    "headline_hash": "83c9ead321684f35",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.prnewswire.com/news-releases/new-study-conducted-at-sheppard-pratt-finds-psilocybin-assisted-therapy-may-reduce-chronic-suicidal-ideation-302782135.html",
+    "headline_hash": "9ba24d3ee04db30d",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.prnewswire.com/news-releases/new-study-conducted-at-sheppard-pratt-finds-psilocybin-assisted-therapy-may-reduce-chronic-suicidal-ideation-302782135.html?utm_source=openai",
+    "headline_hash": "d997bb000bc0ff84",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.statnews.com/2026/05/28/fda-wellness-guidance-unvetted-blood-pressure-tech-floods-market/",
+    "headline_hash": "bea29114a25cac5b",
+    "date": "2026-05-28"
+  },
+  {
+    "url": "https://www.statnews.com/2026/05/28/fda-wellness-guidance-unvetted-blood-pressure-tech-floods-market/?utm_source=openai",
+    "headline_hash": "6ec3fb494f5e786f",
+    "date": "2026-05-28"
   }
 ]
