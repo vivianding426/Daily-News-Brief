@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://www.thewrap.com/industry-news/tech/",
-    "headline_hash": "55040992f403d3c8",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.thewrap.com/industry-news/tech/",
-    "headline_hash": "55040992f403d3c8",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.euronews.com/next/2026/05/25/why-european-businesses-are-not-using-ai-tools",
-    "headline_hash": "98321bff478843a0",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.euronews.com/next/2026/05/25/why-european-businesses-are-not-using-ai-tools?utm_source=openai",
-    "headline_hash": "43669ce34eaa50fa",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://pr.oregoncapitalinsider.com/article/KERRYGOLD-LAUNCHES-MAKE-IT-GOLD-WITH-KERRYGOLD-A-CAMPAIGN-BUILT-ON-FLAVOR-CRAFT-andamp-IRISH-HERITAGE",
-    "headline_hash": "8018132b034ff913",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://pr.oregoncapitalinsider.com/article/KERRYGOLD-LAUNCHES-MAKE-IT-GOLD-WITH-KERRYGOLD-A-CAMPAIGN-BUILT-ON-FLAVOR-CRAFT-andamp-IRISH-HERITAGE?storyId=6a157e0a004597ee6ba127ac&utm_source=openai",
-    "headline_hash": "78c5bc70796c6a93",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/manufacturing/semiconductors",
-    "headline_hash": "67082c08a0819555",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/manufacturing/semiconductors?utm_source=openai",
-    "headline_hash": "4d4898b9a6dd8f71",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://apnews.com/article/4f681cecfa63fe251f5bb12bb4b949c6",
-    "headline_hash": "ec6cf955934f2db9",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://apnews.com/article/4f681cecfa63fe251f5bb12bb4b949c6?utm_source=openai",
-    "headline_hash": "654b040133f8f76c",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://digiday.com/topic/creator-economy/",
-    "headline_hash": "e67d4cc7081b34b0",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://digiday.com/topic/creator-economy/",
-    "headline_hash": "e67d4cc7081b34b0",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://au.variety.com/2026/film/global/box-office-michael-800-million-devil-wears-prada-2-600-million-globally-36923/",
-    "headline_hash": "99a5626ef92d7a0e",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://au.variety.com/2026/film/global/box-office-michael-800-million-devil-wears-prada-2-600-million-globally-36923/?utm_source=openai",
-    "headline_hash": "c17224bc4016fa80",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.sciencealert.com/a-single-dose-of-psilocybin-could-ease-depression-for-months-new-study-finds",
-    "headline_hash": "db2ef55bdbc1610c",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.sciencealert.com/a-single-dose-of-psilocybin-could-ease-depression-for-months-new-study-finds?utm_source=openai",
-    "headline_hash": "11f922c008441079",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.taiwannews.com.tw/en/news/6370073",
-    "headline_hash": "eb65f2bda1071d34",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.taiwannews.com.tw/en/news/6370073?utm_source=openai",
-    "headline_hash": "551cc78e3d7f2b4e",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-narrowly-avoids-18-day-chip-strike-after-last-minute-wage-deal-with-48-000-worker-union-tentative-deal-subject-to-workers-vote-suspends-billions-of-dollars-worth-of-potential-losses",
-    "headline_hash": "be1dacd689fce893",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-narrowly-avoids-18-day-chip-strike-after-last-minute-wage-deal-with-48-000-worker-union-tentative-deal-subject-to-workers-vote-suspends-billions-of-dollars-worth-of-potential-losses?utm_source=openai",
-    "headline_hash": "f91aff3a5bc28805",
-    "date": "2026-05-26"
-  },
-  {
     "url": "https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections",
     "headline_hash": "301f51343998f74f",
     "date": "2026-05-27"
@@ -793,5 +693,55 @@
     "url": "https://www.fiercehealthcare.com/digital-health",
     "headline_hash": "c0baf37751c17db9",
     "date": "2026-06-02"
+  },
+  {
+    "url": "https://news.bloomberglaw.com/artificial-intelligence/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic",
+    "headline_hash": "da23c5fa929abcfe",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://apnews.com/article/ce2016a4519fbe234799e009bac8f120",
+    "headline_hash": "89ab4b5dbe3ebe4e",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
+    "headline_hash": "bd471bcd706e469b",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.tomsguide.com/computing/gaming-laptops/all-8-laptops-launching-with-nvidia-rtx-spark-this-fall-and-what-they-can-do",
+    "headline_hash": "7f4439abd24f8ea1",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://english.news.cn/20260602/9098371d66a1467ea2b5e4be10c5fa8e/c.html",
+    "headline_hash": "ae16355775c0e6e9",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.investing.com/news/economy-news/china-services-activity-grows-at-fastest-pace-in-three-months-private-pmi-shows-4723261",
+    "headline_hash": "e0c9bfcfd6d95c72",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
+    "headline_hash": "a1fb975a33790226",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.marieclaire.com/fashion/summer-fashion/jcrew-camp-crew-campaign-summer-2026/",
+    "headline_hash": "6618a6c0319a5783",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.gamesradar.com/entertainment/fantasy-movies/despite-positive-first-reactions-masters-of-the-universe-presales-dont-look-promising-and-the-movie-is-tracking-to-flop-on-opening-weekend/",
+    "headline_hash": "ad2f65908ccb766b",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-01727-x",
+    "headline_hash": "1ad8913147549a4c",
+    "date": "2026-06-03"
   }
 ]
