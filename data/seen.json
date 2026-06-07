@@ -1,125 +1,5 @@
 [
   {
-    "url": "https://www.investing.com/news/stock-market-news/microsoft-to-release-new-coding-model-next-week-the-information-reports-4715066",
-    "headline_hash": "abd807f70cf6a6de",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.investing.com/news/stock-market-news/microsoft-to-release-new-coding-model-next-week-the-information-reports-4715066?utm_source=openai",
-    "headline_hash": "b53b5865956d30c0",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.scmp.com/economy/china-economy/article/3355324/china-launches-ai-framework-improve-black-box-transparency-and-raise-standards",
-    "headline_hash": "d88608160cf934d2",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.scmp.com/economy/china-economy/article/3355324/china-launches-ai-framework-improve-black-box-transparency-and-raise-standards?utm_source=openai",
-    "headline_hash": "b5d61f8c233e74ef",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.prnewswire.com/in/news-releases/hyundai-motor-launches-school-of-football-campaign-featuring-boston-dynamics-atlas-ahead-of-fifa-world-cup-2026-302785549.html",
-    "headline_hash": "a4544f2de7d0beb6",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.prnewswire.com/in/news-releases/hyundai-motor-launches-school-of-football-campaign-featuring-boston-dynamics-atlas-ahead-of-fifa-world-cup-2026-302785549.html?utm_source=openai",
-    "headline_hash": "7bc92a997eb054ce",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.prnewswire.com/news-releases/small-business-month-launches-nationwide-302773484.html",
-    "headline_hash": "6cce3b79676a6d4b",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.prnewswire.com/news-releases/small-business-month-launches-nationwide-302773484.html?utm_source=openai",
-    "headline_hash": "c89b4199cfb9d115",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.marketscreener.com/news/dell-rallies-about-40-on-strong-nvidia-powered-ai-server-demand-ce7f5ddbdb8ffe2c",
-    "headline_hash": "7d181a96bf7e35ec",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.marketscreener.com/news/dell-rallies-about-40-on-strong-nvidia-powered-ai-server-demand-ce7f5ddbdb8ffe2c?utm_source=openai",
-    "headline_hash": "81c4658a30e03f51",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.investing.com/news/stock-market-news/analysishuawei-bets-on-speed-over-shrinking-transistors-to-sidestep-us-chip-sanctions-4715892",
-    "headline_hash": "6e47984b617e2c83",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.investing.com/news/stock-market-news/analysishuawei-bets-on-speed-over-shrinking-transistors-to-sidestep-us-chip-sanctions-4715892?utm_source=openai",
-    "headline_hash": "442ffd6f0d8ee4bb",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.investing.com/news/economic-indicators/european-commission-vows-tougher-action-on-trade-with-china-4462263",
-    "headline_hash": "e6643a914daf5e97",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://au.investing.com/news/economic-indicators/european-commission-vows-tougher-action-on-trade-with-china-4462263?utm_source=openai",
-    "headline_hash": "221a439ebaf8c75e",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://apnews.com/article/aeea91e1d1682e7e22321512e6e4aa35",
-    "headline_hash": "793bf23ffbc917f3",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://apnews.com/article/aeea91e1d1682e7e22321512e6e4aa35?utm_source=openai",
-    "headline_hash": "74ec7dbdf436130e",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://ppc.land/youtube-shifts-generative-ai-labels-to-spots-viewers-will-actually-see/",
-    "headline_hash": "04c1c5698ef8b850",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://ppc.land/youtube-shifts-generative-ai-labels-to-spots-viewers-will-actually-see/?utm_source=openai",
-    "headline_hash": "6ca8bd8ad33c20aa",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.techradar.com/streaming/entertainment/new-movies-2026-guide",
-    "headline_hash": "b8e5b9098cc9ca08",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.techradar.com/streaming/entertainment/new-movies-2026-guide?utm_source=openai",
-    "headline_hash": "dc17f37d0f2a9d91",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://neurosciencenews.com/hdac3-epigenetics-ptsd-anxiety-30783/",
-    "headline_hash": "0d8e1da760da4900",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://neurosciencenews.com/hdac3-epigenetics-ptsd-anxiety-30783/?utm_source=openai",
-    "headline_hash": "8aefc37c1df8e222",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.latimes.com/business/story/2026-05-29/oura-ring-shrinks-to-wedding-band-size-as-smart-ring-health-race-heats-up",
-    "headline_hash": "72542f2da68aa73b",
-    "date": "2026-05-30"
-  },
-  {
-    "url": "https://www.latimes.com/business/story/2026-05-29/oura-ring-shrinks-to-wedding-band-size-as-smart-ring-health-race-heats-up?utm_source=openai",
-    "headline_hash": "27cef7dc07c29cdc",
-    "date": "2026-05-30"
-  },
-  {
     "url": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
     "headline_hash": "3a596b4491525d12",
     "date": "2026-05-31"
@@ -758,5 +638,60 @@
     "url": "https://www.prnewswire.com/news-releases/new-abbott-data-show-many-people-with-diabetes-may-not-recognize-symptoms-of-diabetic-ketoacidosis-302793024.html?utm_source=openai",
     "headline_hash": "0877ef08052a0444",
     "date": "2026-06-06"
+  },
+  {
+    "url": "https://ca.finance.yahoo.com/news/openai-plans-chatgpt-superapp-overhaul-042143505.html",
+    "headline_hash": "ef24e57191aca36f",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.archynewsy.com/youtubes-ai-push-sparks-user-backlash-and-creator-economy-concerns/",
+    "headline_hash": "f1d9b391212c46d4",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.marketingdive.com/news/campaign-trail-coca-cola-rides-a-roller-coaster-of-world-cup-emotions/821781/",
+    "headline_hash": "fcc49e5dde975e54",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/chip-selloff-erases-over-1-trillion-in-stock-market-value-4729116",
+    "headline_hash": "89d6a61698a59d8e",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://english.www.gov.cn/news/202606/06/content_WS6a23623fc6d00ca5f9a0b6df.html",
+    "headline_hash": "3c01bdb6488a39a8",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.china.org.cn/2026-06/05/content_118532307.shtml",
+    "headline_hash": "5f52400bdf3cde43",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.gamesradar.com/summer-game-fest-schedule-2026/",
+    "headline_hash": "e76781ba6a4c6975",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.whowhatwear.com/fashion/runway/hermes-cruise-2027",
+    "headline_hash": "61a1002ef3f10498",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.gamesradar.com/entertainment/dc-movies/supergirl-opening-weekend-box-office-predictions-put-the-dc-movie-below-the-mandalorian-and-grogu-and-superman/",
+    "headline_hash": "edc74e207c3ecc48",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.nature.com/articles/s44271-026-00483-y",
+    "headline_hash": "70b2da8baa8d3b91",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.globenewswire.com/news-release/2026/06/05/3307433/0/en/cosmos-health-continues-u-s-expansion-with-launch-of-oliv18-targeting-cardiovascular-and-antioxidant-categories.html",
+    "headline_hash": "a18cc5b87566022b",
+    "date": "2026-06-07"
   }
 ]
