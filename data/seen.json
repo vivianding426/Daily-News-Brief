@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://news.bloomberglaw.com/artificial-intelligence/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic",
-    "headline_hash": "da23c5fa929abcfe",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://apnews.com/article/ce2016a4519fbe234799e009bac8f120",
-    "headline_hash": "89ab4b5dbe3ebe4e",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-3-2026",
-    "headline_hash": "bd471bcd706e469b",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.tomsguide.com/computing/gaming-laptops/all-8-laptops-launching-with-nvidia-rtx-spark-this-fall-and-what-they-can-do",
-    "headline_hash": "7f4439abd24f8ea1",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://english.news.cn/20260602/9098371d66a1467ea2b5e4be10c5fa8e/c.html",
-    "headline_hash": "ae16355775c0e6e9",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.investing.com/news/economy-news/china-services-activity-grows-at-fastest-pace-in-three-months-private-pmi-shows-4723261",
-    "headline_hash": "e0c9bfcfd6d95c72",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
-    "headline_hash": "a1fb975a33790226",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.marieclaire.com/fashion/summer-fashion/jcrew-camp-crew-campaign-summer-2026/",
-    "headline_hash": "6618a6c0319a5783",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.gamesradar.com/entertainment/fantasy-movies/despite-positive-first-reactions-masters-of-the-universe-presales-dont-look-promising-and-the-movie-is-tracking-to-flop-on-opening-weekend/",
-    "headline_hash": "ad2f65908ccb766b",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.nature.com/articles/d41586-026-01727-x",
-    "headline_hash": "1ad8913147549a4c",
-    "date": "2026-06-03"
-  },
-  {
     "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
     "headline_hash": "cac1b39f308738ad",
     "date": "2026-06-04"
@@ -738,5 +688,55 @@
     "url": "https://www.fda.gov/news-events/fda-newsroom?utm_source=openai",
     "headline_hash": "8f05f1fea24ced04",
     "date": "2026-06-10"
+  },
+  {
+    "url": "https://insidetelecom.com/openai-says-chinese-propaganda-is-being-deployed/",
+    "headline_hash": "29ae30898b418add",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.thedrum.com/news/ai-is-the-air-not-the-answer-ana-masters-of-b2b-2026-takeaways",
+    "headline_hash": "1929ef967210f83d",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.thedrum.com/news/jde-peet-s-wants-football-fans-to-swap-beer-for-coffee-this-summer",
+    "headline_hash": "19be9306a7b5ef2c",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://focustaiwan.tw/business/202606100008",
+    "headline_hash": "1706e09253c62c20",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://news.bloomberglaw.com/crypto/merz-calls-for-stronger-trade-tools-as-eu-seeks-reset-with-china",
+    "headline_hash": "8fd062bae5b581aa",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://apnews.com/article/08feed47be7b423bafcfe9ae941bed1b",
+    "headline_hash": "ee598be1490679fc",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/hugo-boss-shares-jump-after-frasers-23-billion-takeover-bid-4736597",
+    "headline_hash": "a1e0657f54abc1bd",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.local10.com/health/2026/06/10/new-research-raises-concerns-over-teens-using-ai-for-mental-health-support/",
+    "headline_hash": "559206e7164f436a",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-expands-sunscreen-options-first-time-20-years",
+    "headline_hash": "748c58d12e576df8",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.kitco.com/news/off-the-wire/2026-06-11/ecb-raises-interest-rates-long-telegraphed-move",
+    "headline_hash": "2b93dc8684e82b69",
+    "date": "2026-06-11"
   }
 ]
