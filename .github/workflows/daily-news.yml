@@ -2,9 +2,7 @@ name: Daily News Brief
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 15 * * *"
-
+  
 permissions:
   contents: write
 
